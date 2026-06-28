@@ -31,6 +31,6 @@ def unionArray(a, b):
             
                           
                         
-# print(unionArray([1, 2, 3, 4, 5], [1, 2, 7]))
-# print(unionArray([10,100,101], [4]))
+print(unionArray([1, 2, 3, 4, 5], [1, 2, 7]))
+print(unionArray([10,100,101], [4]))
 print(unionArray([3, 4, 6, 7, 9, 9], [1, 5, 7, 8, 8]))
