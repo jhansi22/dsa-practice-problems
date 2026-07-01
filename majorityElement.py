@@ -15,4 +15,4 @@ def majority_element(nums):
         
 
 
-print(majority_element([1, 1, 1, 2, 1, 2,5,5,5,5,5,5,6,6,6,6,6]))
+print(majority_element([1, 1, 1, 2, 1, 2, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6]))
